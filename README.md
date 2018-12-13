@@ -16,7 +16,7 @@ The function should return result of numbers after applying the chosen operation
 
 [Play](https://www.codewars.com/kata/basic-mathematical-operations)
 
-Check
+[Check](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp/blob/master/41_basic_mathematical_operations.js)
 
 ## Item 42 (soon)
 
