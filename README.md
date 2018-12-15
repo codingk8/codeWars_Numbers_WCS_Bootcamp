@@ -24,7 +24,8 @@ The function should return result of numbers after applying the chosen operation
 
 [Check](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp/blob/master/42_count_of_positives.js)
 
-Look at the filter solution [here](https://repl.it/@johntduong/Code-Wars-Count-of-positives-sum-of-negatives)
+Look at the filter solution [here](https://repl.it/@johntduong/Code-Wars-Count-of-positives-sum-of-negatives)  
+Compare and contrast Map(), Filter() and Reduce() :wink:
 
 ## Item 43 (soon)
 
