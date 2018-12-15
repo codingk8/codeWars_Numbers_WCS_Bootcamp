@@ -1,4 +1,5 @@
-/* xxx */
+/* CodeWars "Count the positives and sum the negatives"
+See links & ressources in the MD file */
 
 // My longest solution
 function f(input) {
