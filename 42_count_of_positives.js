@@ -1,6 +1,8 @@
 /* CodeWars "Count the positives and sum the negatives"
 See links & ressources in the MD file */
 
+/* You have to get rid of the array being possibly null in the first place and then go through the other conditions */
+
 // My longest solution
 function f(input) {
     let c = 0;
