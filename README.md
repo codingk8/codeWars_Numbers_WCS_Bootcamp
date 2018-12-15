@@ -1,6 +1,6 @@
 <h1 align="center">codeWars_Numbers_WCS_Bootcamp</h1>
 <h2 align="center">Wild Code School CodeWars package about numbers :skull:</h2>
-<h4 align="center"><i>Last update: 20181213</i></h4>
+<h4 align="center"><i>Last update: 20181215</i></h4>
 
 ***
 
