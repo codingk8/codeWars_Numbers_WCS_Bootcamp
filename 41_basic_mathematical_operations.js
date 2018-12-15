@@ -1,4 +1,5 @@
-/* See link & ressources in the MD file */
+/* CodeWars "Basic mathematical operations"
+See links & ressources in the MD file */
 
 /* Ma solution */
 function basicOp(operation, value1, value2) {
