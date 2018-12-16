@@ -8,3 +8,14 @@ function invert(array) {
     return [];
   } return array.map(x => -x);
 }
+
+// The good solution with the condition inside the map !
+
+function invert(array) {
+  if (array.length === 0) {
+    return [];
+  } return array.map( x => x=== 0 ? 0 : -x) 
+}
+
+
+/* That's all folks! */
