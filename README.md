@@ -27,7 +27,7 @@ The function should return result of numbers after applying the chosen operation
 Look at the filter solution [here](https://repl.it/@johntduong/Code-Wars-Count-of-positives-sum-of-negatives)  
 Compare and contrast Map(), Filter() and Reduce() :wink:
 
-## Item 43 Invert values
+## Item 43 Invert values :koala:
 
 _**Given a set of numbers, return the additive inverse of each. Each positive becomes negatives, and the negatives become positives.**_
 ```js
@@ -41,7 +41,7 @@ You can assume that all values are integers.
 
 [Check](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp/blob/master/43_invert_values.js)
 
-##### The map() with 2 ternary operators inside :wink:
+##### The map() with 2 ternary operators inside :dancer:
 
 ## Item 44 (soon)
 
