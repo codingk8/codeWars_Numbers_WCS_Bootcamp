@@ -10,8 +10,8 @@
 
 ## Item 41 Basic Mathematical Operations :cloud:
 
-_**Your task is to create a function that does four basic mathematical operations.
-The function should take three arguments - operation(string/char), value1(number), value2(number).
+_**Your task is to create a function that does four basic mathematical operations.  
+The function should take three arguments - operation(string/char), value1(number), value2(number).  
 The function should return result of numbers after applying the chosen operation.**_
 
 [Play](https://www.codewars.com/kata/basic-mathematical-operations)
