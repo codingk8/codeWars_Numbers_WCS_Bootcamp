@@ -34,8 +34,9 @@ _**Given a set of numbers, return the additive inverse of each. Each positive be
 invert([1,2,3,4,5]) == [-1,-2,-3,-4,-5]
 invert([1,-2,3,-4,5]) == [-1,2,-3,4,-5]
 invert([]) == []
-You can assume that all values are integers.
 ```
+_**You can assume that all values are integers.**_
+
 
 [Play](https://www.codewars.com/kata/invert-values)
 
