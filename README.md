@@ -39,7 +39,7 @@ You can assume that all values are integers.
 
 [Play](https://www.codewars.com/kata/invert-values)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp/blob/master/43_invert_values.js)
 
 ## Item 44 (soon)
 
