@@ -37,12 +37,13 @@ invert([]) == []
 ```
 _**You can assume that all values are integers.**_
 
+#### Hints: deal with the empty array first, then think about the 0 that should not become -0
 
 [Play](https://www.codewars.com/kata/invert-values)
 
 [Check](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp/blob/master/43_invert_values.js)
 
-##### The map() with 2 ternary operators inside :dancer:
+#### Hit: the map() with 2 ternary operators inside :dancer:
 
 ## Item 44 (soon)
 
