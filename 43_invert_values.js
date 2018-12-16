@@ -1,1 +1,10 @@
 /* xxx */
+
+
+// My 1st solution (fails at the final tests because of the 0)
+
+function invert(array) {
+  if (array.length === 0) {
+    return [];
+  } return array.map(x => -x);
+}
