@@ -41,6 +41,8 @@ You can assume that all values are integers.
 
 [Check](https://github.com/codingk8/codeWars_Numbers_WCS_Bootcamp/blob/master/43_invert_values.js)
 
+##### The map() with 2 ternary operators inside :wink:
+
 ## Item 44 (soon)
 
 ## Item 45 (soon)
