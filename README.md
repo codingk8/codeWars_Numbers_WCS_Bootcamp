@@ -27,11 +27,33 @@ The function should return result of numbers after applying the chosen operation
 Look at the filter solution [here](https://repl.it/@johntduong/Code-Wars-Count-of-positives-sum-of-negatives)  
 Compare and contrast Map(), Filter() and Reduce() :wink:
 
-## Item 43 (soon)
+## Item 43 Invert values
 
-Play
+_**Given a set of numbers, return the additive inverse of each. Each positive becomes negatives, and the negatives become positives.**_
+```js
+invert([1,2,3,4,5]) == [-1,-2,-3,-4,-5]
+invert([1,-2,3,-4,5]) == [-1,2,-3,4,-5]
+invert([]) == []
+You can assume that all values are integers.
+```
 
-Check
+[Play](https://www.codewars.com/kata/invert-values)
+
+[Check](#)
+
+## Item 44 (soon)
+
+## Item 45 (soon)
+
+## Item 46 (soon)
+
+## Item 47 (soon)
+
+## Item 48 (soon)
+
+## Item 49 (soon)
+
+## Item 410 (soon)
 
 
 ***
