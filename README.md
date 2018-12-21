@@ -62,7 +62,7 @@ _**You can assume that all values are integers.**_
 
 ***
 
-<h2 align="center">Numbers will make you smart, yes they will ! :wink:</h2>
-<p align="center"><img src="https://media.giphy.com/media/l0Ex9pftnvPgw0nPa/giphy.gif" alt="Boo"/></p>
+<h2 align="center">OK, let's move it :wink:</h2>
+<p align="center"><img src="https://media.giphy.com/media/14udF3WUwwGMaA/giphy.gif" alt="Boo"/></p>
   
 ***
